@@ -1,6 +1,6 @@
 services:
-  mc_skyblock:
-    image: glitchless/gli_mc_rlcraft:1
+  mc_rlcraft:
+    image: glitchless/gli_mc_rlcraft:8
     restart: unless-stopped
     ports:
       - "25569:25565"
