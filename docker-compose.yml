@@ -1,9 +1,9 @@
 services:
   mc_skyblock:
-    image: glitchless/gli_mc_rlcraft:3
+    image: glitchless/gli_mc_rlcraft:1
     restart: unless-stopped
     ports:
-      - "25568:25565"
+      - "25569:25565"
     environment:
       MC_RAM: "16G"
     volumes:
