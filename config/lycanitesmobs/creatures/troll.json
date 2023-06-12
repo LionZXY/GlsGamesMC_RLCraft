@@ -1,12 +1,12 @@
 {
   "name": "troll",
-  "creatureType": "brute",
+  "creatureType": "anthronian",
   "groups": [
     "raider"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityTroll",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelTroll",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -24,7 +24,7 @@
     "biomeTags": [
       "mountain"
     ],
-    "spawnWeight": 4,
+    "spawnWeight": 5,
     "dungeonWeight": 200,
     "spawnAreaLimit": 5,
     "spawnGroupMin": 1,
@@ -50,6 +50,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
+  "bagSize": 5,
   "eggBackColor": "#007711",
   "eggForeColor": "#EEEEEE",
   "subspecies": [
@@ -82,23 +83,11 @@
   "summonable": true,
   "tameable": false,
   "mountable": false,
-  "summonCost": 6,
+  "summonCost": 4,
   "dungeonLevel": 1,
   "drops": [
     {
-      "item": "minecraft:log",
-      "minAmount": 2,
-      "maxAmount": 6,
-      "chance": 1
-    },
-    {
-      "item": "minecraft:bone",
-      "minAmount": 2,
-      "maxAmount": 6,
-      "chance": 1
-    },
-    {
-      "item": "minecraft:leather",
+      "item": "minecraft:stone",
       "minAmount": 2,
       "maxAmount": 6,
       "chance": 1

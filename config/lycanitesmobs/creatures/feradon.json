@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityFeradon",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelFeradon",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -43,7 +43,7 @@
   "health": 20,
   "defense": 0,
   "armor": 0,
-  "speed": 28,
+  "speed": 38,
   "damage": 3,
   "attackSpeed": 1,
   "rangedSpeed": 1,
@@ -52,6 +52,8 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.25,
+  "bagSize": 10,
+  "tamingReputation": 500,
   "eggBackColor": "#e4a23d",
   "eggForeColor": "#552d0e",
   "subspecies": [

@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityWarg",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelWarg",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -42,7 +42,7 @@
   "health": 20,
   "defense": 1,
   "armor": 0,
-  "speed": 30,
+  "speed": 38,
   "damage": 3,
   "attackSpeed": 1,
   "rangedSpeed": 1,
@@ -51,6 +51,8 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.5,
+  "bagSize": 5,
+  "tamingReputation": 500,
   "eggBackColor": "#321806",
   "eggForeColor": "#68523b",
   "subspecies": [

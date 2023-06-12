@@ -20,6 +20,7 @@
     "disableSubspecies": false,
     "dimensionIds": [
       -1,
+	  111,
       1
     ],
     "dimensionListType": "blacklist",
@@ -44,7 +45,7 @@
   "experience": 5,
   "health": 10,
   "defense": 0,
-  "armor": 0,
+  "armor": 4,
   "speed": 38,
   "damage": 2,
   "attackSpeed": 2,
@@ -54,6 +55,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.25,
+  "bagSize": 5,
   "eggBackColor": "#BC532E",
   "eggForeColor": "#3D6999",
   "subspecies": [

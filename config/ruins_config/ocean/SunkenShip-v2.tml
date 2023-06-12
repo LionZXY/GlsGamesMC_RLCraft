@@ -6,6 +6,10 @@
 biomesToSpawnIn=ocean,deep ocean,kelp forest,ocean oil field,oceanic abyss,coral reef
 weight=5
 embed_into_distance=3
+
+uniqueMinDistance=300
+
+
 dimensions=20,11,36
 allowable_overhang=12
 max_leveling=5
@@ -16,7 +20,7 @@ preserve_plants=1
 
 rule1=0,100,preserveBlock
 rule2=0,90,planks,planks,planks,planks-1
-rule3=0,50,ChestGenHook:chests/simple_dungeon:3-5
+rule3=0,50,ChestGenHook:chests/stronghold_corridor:3-5,ChestGenHook:gameplay/fishing:3-5
 rule4=0,50,ChestGenHook:chests/simple_dungeon:3-4
 rule5=2,98,log-1
 rule6=0,50,glass

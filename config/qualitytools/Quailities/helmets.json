@@ -11,10 +11,10 @@
     ],
     "blacklist": [
       {
-        "item": "toughasnails:wool_helmet"
+        "item": "iceandfire:earplugs"
       },
-      {
-        "item": "toughasnails:jelled_slime_helmet"
+	  {
+        "item": "iceandfire:blindfold"
       }
     ],
     "qualities": [

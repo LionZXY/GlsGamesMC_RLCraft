@@ -4,8 +4,8 @@
   "items": [
     {
       "weight": 0.5354365706443787,
-      "min": 5,
-      "max": 64,
+      "min": 1,
+      "max": 15,
       "item": {
         "id": "minecraft:potato",
         "damage": 0,
@@ -15,7 +15,7 @@
     {
       "weight": 0.5354365706443787,
       "min": 5,
-      "max": 64,
+      "max": 25,
       "item": {
         "id": "foodexpansion:itemcookedsquid",
         "damage": 0,
@@ -24,8 +24,8 @@
     },
     {
       "weight": 0.5354365706443787,
-      "min": 5,
-      "max": 64,
+      "min": 1,
+      "max": 15,
       "item": {
         "id": "familiarfauna:turkey_leg_cooked",
         "damage": 0,
@@ -34,8 +34,8 @@
     },
     {
       "weight": 0.5354365706443787,
-      "min": 5,
-      "max": 64,
+      "min": 1,
+      "max": 15,
       "item": {
         "id": "minecraft:wheat",
         "damage": 0,
@@ -44,8 +44,8 @@
     },
     {
       "weight": 0.5354365706443787,
-      "min": 5,
-      "max": 20,
+      "min": 1,
+      "max": 15,
       "item": {
         "id": "foodexpansion:itemfriedegg",
         "damage": 0,
@@ -54,8 +54,8 @@
     },
     {
       "weight": 0.5354365706443787,
-      "min": 5,
-      "max": 20,
+      "min": 1,
+      "max": 15,
       "item": {
         "id": "minecraft:mutton",
         "damage": 0,
@@ -64,8 +64,8 @@
     },
     {
       "weight": 0.5354365706443787,
-      "min": 5,
-      "max": 20,
+      "min": 1,
+      "max": 15,
       "item": {
         "id": "foodexpansion:itemcookedbacon",
         "damage": 0,
@@ -75,7 +75,7 @@
     {
       "weight": 0.5354365706443787,
       "min": 5,
-      "max": 20,
+      "max": 25,
       "item": {
         "id": "minecraft:fish",
         "damage": 1,
@@ -95,7 +95,7 @@
     {
       "weight": 0.5354365706443787,
       "min": 5,
-      "max": 20,
+      "max": 25,
       "item": {
         "id": "minecraft:fish",
         "damage": 0,

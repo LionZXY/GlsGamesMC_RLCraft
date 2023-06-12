@@ -1,14 +1,14 @@
 {
   "itemName": "clinkscythe",
-  "loadDefault": true,
+  "loadDefault": false,
   "slotType": "axe",
   "dropMobId": "lycanitesmobs:clink",
-  "dropChance": 0.1,
+  "dropChance": 0.05,
   "levelMin": 1,
   "levelMax": 3,
   "elements": [
     "earth",
-    "gravity"
+    "arcane"
   ],
   "features": [
     {
@@ -104,9 +104,9 @@
       "featureType": "projectile",
       "levelMin": 2,
       "projectileName": "throwingscythe",
-      "projectileTrigger": "secondary",
+      "projectileTrigger": "primary",
       "projectilePattern": "simple",
-      "cooldown": 10,
+      "cooldown": 5,
       "count": 1
     }
   ]

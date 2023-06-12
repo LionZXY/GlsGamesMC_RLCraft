@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityMaug",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelMaug",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -53,6 +53,8 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.25,
+  "bagSize": 10,
+  "tamingReputation": 500,
   "eggBackColor": "#c9cccd",
   "eggForeColor": "#52504e",
   "subspecies": [
@@ -85,7 +87,7 @@
   "dungeonLevel": 2,
   "drops": [
     {
-      "item": "minecraft:leather",
+      "item": "lycanitesmobs:frostyfur",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1

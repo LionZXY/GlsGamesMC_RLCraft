@@ -7,7 +7,7 @@
       "min": 1,
       "max": 8,
       "item": {
-        "id": "harvestcraft:tomatoitem",
+        "id": "minecraft:bread",
         "damage": 0,
         "count": 1
       }
@@ -17,7 +17,7 @@
       "min": 1,
       "max": 15,
       "item": {
-        "id": "harvestcraft:garlicitem",
+        "id": "minecraft:wheat",
         "damage": 0,
         "count": 1
       }
@@ -27,7 +27,7 @@
       "min": 1,
       "max": 6,
       "item": {
-        "id": "harvestcraft:sweetpotatoitem",
+        "id": "minecraft:egg",
         "damage": 0,
         "count": 1
       }
@@ -37,7 +37,7 @@
       "min": 1,
       "max": 8,
       "item": {
-        "id": "harvestcraft:bellpepperitem",
+        "id": "minecraft:leather",
         "damage": 0,
         "count": 1
       }
@@ -47,7 +47,7 @@
       "min": 1,
       "max": 20,
       "item": {
-        "id": "harvestcraft:peasitem",
+        "id": "minecraft:arrow",
         "damage": 0,
         "count": 1
       }
@@ -57,7 +57,7 @@
       "min": 1,
       "max": 5,
       "item": {
-        "id": "harvestcraft:cabbageitem",
+        "id": "minecraft:porkchop",
         "damage": 0,
         "count": 1
       }
@@ -67,7 +67,7 @@
       "min": 1,
       "max": 6,
       "item": {
-        "id": "harvestcraft:lettuceitem",
+        "id": "minecraft:potato",
         "damage": 0,
         "count": 1
       }
@@ -75,9 +75,9 @@
     {
       "weight": 0.32298368215560913,
       "min": 1,
-      "max": 8,
+      "max": 1,
       "item": {
-        "id": "harvestcraft:onionitem",
+        "id": "minecraft:bow",
         "damage": 0,
         "count": 1
       }

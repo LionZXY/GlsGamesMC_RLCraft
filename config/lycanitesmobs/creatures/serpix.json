@@ -7,7 +7,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySerpix",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelSerpix",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -44,8 +44,8 @@
   "height": 1.8,
   "experience": 20,
   "health": 40,
-  "defense": 3,
-  "armor": 0,
+  "defense": 2,
+  "armor": 8,
   "speed": 26,
   "damage": 1,
   "attackSpeed": 1,
@@ -55,6 +55,8 @@
   "pierce": 2,
   "sight": 24,
   "knockbackResistance": 1,
+  "bagSize": 15,
+  "tamingReputation": 500,
   "eggBackColor": "#CCEEFF",
   "eggForeColor": "#0000BB",
   "subspecies": [
@@ -104,6 +106,12 @@
       "minAmount": 1,
       "maxAmount": 2,
       "chance": 0.25
+    },
+    {
+      "item": "simpledifficulty:frost_powder",
+      "minAmount": 3,
+      "maxAmount": 6,
+      "chance": 1
     },
     {
       "item": "lycanitesmobs:blizzardcharge",

@@ -2,7 +2,7 @@
   "name": "skyhigh",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 4,
   "ignoreBiomes": false,
   "ignoreLightLevel": true,
@@ -10,7 +10,7 @@
   "triggers": [
     {
       "type": "world",
-      "chance": 0.5,
+      "chance": 0.3,
       "tickRate": 1600
     }
   ],

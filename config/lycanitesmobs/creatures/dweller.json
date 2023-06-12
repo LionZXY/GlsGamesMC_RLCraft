@@ -1,12 +1,12 @@
 {
   "name": "dweller",
-  "creatureType": "aquatic",
+  "creatureType": "amphibian",
   "groups": [
     "monster"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityDweller",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelDweller",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -26,7 +26,7 @@
       "jungle"
     ],
     "spawnWeight": 8,
-    "dungeonWeight": 200,
+    "dungeonWeight": 0,
     "spawnAreaLimit": 5,
     "spawnGroupMin": 1,
     "spawnGroupMax": 3,
@@ -51,6 +51,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#009922",
   "eggForeColor": "#994499",
   "subspecies": [

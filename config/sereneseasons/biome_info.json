@@ -20,9 +20,9 @@
     "disable_crops": false
   },
   "traverse:badlands": {
-    "enable_seasonal_effects": true,
-    "use_tropical_seasons": true,
-    "disable_crops": false
+    "enable_seasonal_effects": false,
+    "use_tropical_seasons": false,
+    "disable_crops": true
   },
   "traverse:desert_shrubland": {
     "enable_seasonal_effects": true,
@@ -35,8 +35,8 @@
     "disable_crops": false
   },
   "minecraft:deep_ocean": {
-    "enable_seasonal_effects": false,
-    "use_tropical_seasons": false,
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": true,
     "disable_crops": false
   },
   "biomesoplenty:ominous_woods": {
@@ -110,8 +110,8 @@
     "disable_crops": false
   },
   "minecraft:river": {
-    "enable_seasonal_effects": false,
-    "use_tropical_seasons": false,
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": true,
     "disable_crops": false
   },
   "biomesoplenty:xeric_shrubland": {
@@ -245,6 +245,11 @@
     "disable_crops": false
   },
   "minecraft:ocean": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": true,
+    "disable_crops": false
+  },
+  "minecraft:mutated_forest": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
     "disable_crops": false

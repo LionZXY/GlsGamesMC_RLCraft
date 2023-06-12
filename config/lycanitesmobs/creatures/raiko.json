@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityRaiko",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelRaiko",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -49,6 +49,8 @@
   "pierce": 1,
   "sight": 32,
   "knockbackResistance": 0,
+  "bagSize": 5,
+  "tamingReputation": 1000,
   "eggBackColor": "#CCCCDD",
   "eggForeColor": "#FF6633",
   "subspecies": [
@@ -84,7 +86,7 @@
     {
       "item": "minecraft:bone",
       "minAmount": 1,
-      "maxAmount": 3,
+      "maxAmount": 2,
       "chance": 1
     },
     {
@@ -92,6 +94,13 @@
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1
+    },
+	{
+      "item": "aquaculture:fish",
+      "metadata": 38,
+      "minAmount": 1,
+      "maxAmount": 1,
+      "chance": 0.05
     }
   ],
   "sizeScale": 1,

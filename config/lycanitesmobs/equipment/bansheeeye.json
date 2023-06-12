@@ -1,6 +1,6 @@
 {
   "itemName": "bansheeeye",
-  "loadDefault": true,
+  "loadDefault": false,
   "slotType": "head",
   "dropMobId": "lycanitesmobs:banshee",
   "dropChance": 0.05,
@@ -37,7 +37,7 @@
       "levelMax": 1,
       "effectType": "lycanitesmobs:fear",
       "effectTarget": "target",
-      "effectDuration": 40,
+      "effectDuration": 20,
       "effectStrength": 1
     },
     {
@@ -46,7 +46,7 @@
       "levelMax": 2,
       "effectType": "lycanitesmobs:fear",
       "effectTarget": "target",
-      "effectDuration": 60,
+      "effectDuration": 40,
       "effectStrength": 2
     },
     {
@@ -54,7 +54,7 @@
       "levelMin": 3,
       "effectType": "lycanitesmobs:fear",
       "effectTarget": "target",
-      "effectDuration": 80,
+      "effectDuration": 60,
       "effectStrength": 3
     },
     {

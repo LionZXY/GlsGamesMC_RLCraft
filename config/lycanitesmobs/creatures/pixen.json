@@ -14,12 +14,14 @@
     "disableSubspecies": false,
     "dimensionIds": [
       -1,
+	  111,
       1
     ],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [
-      "forest"
+    "biomeTags": [
+      "forest",
+	  "-snowy"
     ],
     "spawnWeight": 4,
     "dungeonWeight": 100,
@@ -47,6 +49,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#20117a",
   "eggForeColor": "#adad55",
   "subspecies": [
@@ -85,7 +88,7 @@
     {
       "item": "minecraft:glowstone_dust",
       "minAmount": 1,
-      "maxAmount": 8,
+      "maxAmount": 4,
       "chance": 1
     },
     {
@@ -101,7 +104,7 @@
       "chance": 1
     },
     {
-      "item": "lycanitesmobs:trickersterflarecharge",
+      "item": "lycanitesmobs:tricksterflarecharge",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1

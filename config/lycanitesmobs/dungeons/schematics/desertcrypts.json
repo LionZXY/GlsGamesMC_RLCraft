@@ -1,6 +1,6 @@
 {
   "name": "desertcrypts",
-  "loadDefault": true,
+  "loadDefault": false,
   "sectorCountMin": 5,
   "sectorCountMax": 10,
   "corridorToCorridorChance": 0.5,
@@ -21,6 +21,18 @@
       "biomeTagListType": "whitelist"
     }
   ],
+  "placer": {
+    "type": "surface",
+    "materials": [
+      "air",
+      "wood",
+      "leaves",
+      "plants",
+      "vine",
+      "snow",
+      "cactus"
+    ]
+  },
   "themes": [
     "desert"
   ],
@@ -120,22 +132,19 @@
       "mobId": "lycanitesmobs:crusk",
       "weight": 1,
       "variant": 1,
-      "mobNameTag": "Graboid",
-      "mobSizeScale": 3,
+      "mobNameTag": "Gilded Greatworm",
+      "mobSizeScale": 2,
       "naturalDespawn": "false",
-      "mobLevel": 25,
+      "mobLevel": 20,
       "spawnAsBoss": true,
       "dungeonLevelMin": "0",
       "dungeonLevelMax": 2,
       "dungeonBoss": true,
       "mobDrops": [
         {
-          "item": "lycanitesmobs:scorchfirescepter",
-          "amountMultiplier": false
-        },
-        {
           "item": "lycanitesmobs:soulstone_worm",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     },
@@ -153,28 +162,25 @@
       "dungeonBoss": true,
       "mobDrops": [
         {
-          "item": "lycanitesmobs:clinkscythe",
-          "amountMultiplier": false
-        },
-        {
           "item": "minecraft:diamond",
           "minAmount": 10,
           "amountMultiplier": false
         },
         {
           "item": "lycanitesmobs:soulstone_imp",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     },
     {
-      "mobId": "lycanitesmobs:ignibus",
+      "mobId": "lycanitesmobs:zoataur",
       "weight": 1,
       "variant": 1,
-      "mobSizeScale": 1.1,
-      "mobNameTag": "The Tyrant Dragon",
+      "mobSizeScale": 2,
+      "mobNameTag": "The Guardian Dragon",
       "naturalDespawn": "false",
-      "mobLevel": 5,
+      "mobLevel": 25,
       "spawnAsBoss": true,
       "dungeonLevelMin": 5,
       "dungeonBoss": true,
@@ -185,12 +191,9 @@
           "amountMultiplier": false
         },
         {
-          "item": "lycanitesmobs:magmascepter",
-          "amountMultiplier": false
-        },
-        {
           "item": "lycanitesmobs:soulstone_dragon",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     }

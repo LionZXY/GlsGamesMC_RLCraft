@@ -192,6 +192,11 @@
             "name": "potioncore.magicDamage",
             "amount": 0.03,
             "operation": 2
+          },
+		  {
+            "name": "xat.entityMagic.regen",
+            "amount": 1,
+            "operation": 0
           }
         ]
       },
@@ -267,6 +272,28 @@
             "name": "potioncore.projectileDamage",
             "amount": 0.03,
             "operation": 2
+          },
+          {
+            "name": "potioncore.magicDamage",
+            "amount": 0.03,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "quality.arcane.name",
+        "color": "light_purple",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "xat.entityMagic.regen",
+            "amount": 2,
+            "operation": 0
+          },
+          {
+            "name": "potioncore.magicShielding",
+            "amount": 1,
+            "operation": 0
           },
           {
             "name": "potioncore.magicDamage",

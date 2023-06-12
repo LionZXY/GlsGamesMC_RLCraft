@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityZoataur",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelZoataur",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -45,8 +45,8 @@
   "height": 2.8,
   "experience": 20,
   "health": 100,
-  "defense": 4,
-  "armor": 0,
+  "defense": 3,
+  "armor": 12,
   "speed": 28,
   "damage": 2,
   "attackSpeed": 1,
@@ -56,6 +56,8 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.25,
+  "bagSize": 15,
+  "tamingReputation": 2000,
   "packSize": 1,
   "eggBackColor": "#442200",
   "eggForeColor": "#FFDDBB",
@@ -93,27 +95,15 @@
   "dungeonLevel": 2,
   "drops": [
     {
-      "item": "minecraft:bone",
-      "minAmount": 1,
-      "maxAmount": 5,
-      "chance": 1
-    },
-    {
-      "item": "minecraft:leather",
-      "minAmount": 1,
-      "maxAmount": 5,
-      "chance": 1
-    },
-    {
       "item": "minecraft:prismarine_shard",
-      "minAmount": 6,
+      "minAmount": 4,
       "maxAmount": 12,
       "chance": 1
     },
     {
       "item": "minecraft:prismarine_crystals",
-      "minAmount": 3,
-      "maxAmount": 6,
+      "minAmount": 2,
+      "maxAmount": 4,
       "chance": 0.75
     },
     {

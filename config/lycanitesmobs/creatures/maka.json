@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityMaka",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelMaka",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -17,6 +17,7 @@
     "disableSubspecies": false,
     "dimensionIds": [
       -1,
+	  111,
       1
     ],
     "dimensionListType": "blacklist",
@@ -52,6 +53,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
+  "bagSize": 5,
   "eggBackColor": "#AA8855",
   "eggForeColor": "#221100",
   "subspecies": [

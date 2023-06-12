@@ -2,7 +2,7 @@
   "name": "chorus",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 1,
   "ignoreDimensions": true,
   "ignoreBiomes": true,
@@ -18,7 +18,7 @@
         "minecraft:chorus_plant",
         "minecraft:chorus_flower"
       ],
-      "chance": 0.2
+      "chance": 0.05
     }
   ],
   "locations": [

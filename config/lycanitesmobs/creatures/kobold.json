@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityKobold",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelKobold",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -17,6 +17,7 @@
     "disableSubspecies": false,
     "dimensionIds": [
       -1,
+	  111,
       1
     ],
     "dimensionListType": "blacklist",
@@ -27,11 +28,11 @@
       "-snowy"
     ],
     "spawnWeight": 6,
-    "dungeonWeight": 200,
+    "dungeonWeight": 0,
     "spawnAreaLimit": 5,
     "spawnGroupMin": 1,
     "spawnGroupMax": 3,
-    "spawnsInLight": false,
+    "spawnsInLight": true,
     "spawnsInDark": true,
     "worldDayMin": -1,
     "despawnNatural": true,
@@ -52,6 +53,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#996633",
   "eggForeColor": "#FF7777",
   "subspecies": [

@@ -42,5 +42,10 @@
       ],
       "listType": "whitelist"
     }
+  ],
+  "mobSpawns": [
+    {
+      "mobId": "minecraft:zombie_pigman"
+    }
   ]
 }

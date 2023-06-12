@@ -18,6 +18,9 @@
       },
       {
         "class": "ItemSword"
+      },
+      {
+        "class": "ItemCustomWeapon"
       }
     ],
     "blacklist": [

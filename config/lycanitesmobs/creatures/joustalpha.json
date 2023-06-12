@@ -1,12 +1,12 @@
 {
   "name": "joustalpha",
-  "creatureType": "arthropod",
+  "creatureType": "insect",
   "groups": [
     "alpha"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityJoustAlpha",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelJoustAlpha",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -41,7 +41,7 @@
   "experience": 5,
   "health": 20,
   "defense": 1,
-  "armor": 0,
+  "armor": 4,
   "speed": 32,
   "damage": 3,
   "attackSpeed": 2,
@@ -51,6 +51,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.25,
+  "bagSize": 5,
   "eggBackColor": "#FF0000",
   "eggForeColor": "#FFFF00",
   "subspecies": [

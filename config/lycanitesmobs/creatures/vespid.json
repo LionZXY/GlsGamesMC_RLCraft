@@ -1,12 +1,12 @@
 {
   "name": "vespid",
-  "creatureType": "arthropod",
+  "creatureType": "insect",
   "groups": [
     "predator"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityVespid",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelVespid",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -24,12 +24,12 @@
     "biomeTags": [
       "jungle"
     ],
-    "spawnWeight": 8,
+    "spawnWeight": 2,
     "dungeonWeight": 200,
     "spawnAreaLimit": 10,
-    "spawnGroupMin": 3,
-    "spawnGroupMax": 6,
-    "spawnsInLight": false,
+    "spawnGroupMin": 1,
+    "spawnGroupMax": 5,
+    "spawnsInLight": true,
     "spawnsInDark": true,
     "worldDayMin": -1,
     "despawnNatural": true,
@@ -50,6 +50,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#112200",
   "eggForeColor": "#998800",
   "subspecies": [
@@ -85,19 +86,19 @@
     {
       "item": "minecraft:clay_ball",
       "minAmount": 1,
-      "maxAmount": 16,
+      "maxAmount": 8,
       "chance": 1
     },
     {
       "item": "lycanitesmobs:propolis",
       "minAmount": 1,
-      "maxAmount": 4,
+      "maxAmount": 3,
       "chance": 0.5
     },
     {
       "item": "lycanitesmobs:veswax",
       "minAmount": 1,
-      "maxAmount": 4,
+      "maxAmount": 3,
       "chance": 0.5
     }
   ],

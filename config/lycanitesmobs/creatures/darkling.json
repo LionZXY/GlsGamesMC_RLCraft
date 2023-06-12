@@ -1,13 +1,13 @@
 {
   "name": "darkling",
-  "creatureType": "arthropod",
+  "creatureType": "insect",
   "groups": [
     "predator",
     "dark"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityDarkling",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelDarkling",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -47,6 +47,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#10191a",
   "eggForeColor": "#9dfbcd",
   "subspecies": [
@@ -82,7 +83,7 @@
       "item": "minecraft:ender_pearl",
       "minAmount": 1,
       "maxAmount": 1,
-      "chance": 1
+      "chance": 0.1
     },
     {
       "item": "minecraft:spider_eye",

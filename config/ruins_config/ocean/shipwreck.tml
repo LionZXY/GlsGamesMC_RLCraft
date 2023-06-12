@@ -7,6 +7,8 @@ biomesToSpawnIn=ocean,deep ocean,kelp forest,ocean oil field,oceanic abyss,coral
 weight=5
 embed_into_distance=1
 
+uniqueMinDistance=400
+
 unacceptable_target_blocks=flowing_lava,lava,Natura:Cloud
 
 dimensions=13,26,8
@@ -19,7 +21,7 @@ preserve_plants=0
 
 rule1=0,100,minecraft:mossy_cobblestone-0
 rule2=0,100,minecraft:planks-0
-rule3=0,50,ChestGenHook:chests/simple_dungeon:3-5
+rule3=0,50,ChestGenHook:chests/stronghold_corridor:3-5,ChestGenHook:gameplay/fishing:3-5
 rule4=0,50,ChestGenHook:chests/simple_dungeon:3-4
 rule5=0,100,minecraft:log-0
 rule6=0,100,preserveBlock

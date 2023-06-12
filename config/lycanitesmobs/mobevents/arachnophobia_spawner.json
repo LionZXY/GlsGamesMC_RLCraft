@@ -2,8 +2,8 @@
   "name": "arachnophobia_spawner",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
-  "mobCountMin": 5,
+  "loadDefault": false,
+  "mobCountMin": 4,
   "ignoreDimensions": true,
   "ignoreBiomes": true,
   "ignoreLightLevel": true,
@@ -48,10 +48,6 @@
     },
     {
       "mobId": "lycanitesmobs:tarantula",
-      "weight": 8
-    },
-    {
-      "mobId": "lycanitesmobs:trite",
       "weight": 8
     }
   ]

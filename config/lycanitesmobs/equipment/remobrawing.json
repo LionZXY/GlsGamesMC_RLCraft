@@ -1,9 +1,9 @@
 {
   "itemName": "remobrawing",
-  "loadDefault": true,
+  "loadDefault": false,
   "slotType": "axe",
   "dropMobId": "lycanitesmobs:remobra",
-  "dropChance": 0.1,
+  "dropChance": 0.05,
   "levelMin": 1,
   "levelMax": 3,
   "elements": [
@@ -86,7 +86,7 @@
       "effectType": "minecraft:poison",
       "effectTarget": "target",
       "effectDuration": 40,
-      "effectStrength": 1
+      "effectStrength": 2
     },
     {
       "featureType": "projectile",

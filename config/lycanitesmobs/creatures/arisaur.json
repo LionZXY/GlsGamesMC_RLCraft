@@ -1,12 +1,12 @@
 {
   "name": "arisaur",
-  "creatureType": "beast",
+  "creatureType": "reptile",
   "groups": [
     "animal"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityArisaur",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelArisaur",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -17,6 +17,7 @@
     "disableSubspecies": false,
     "dimensionIds": [
       -1,
+	  111,
       1
     ],
     "dimensionListType": "blacklist",
@@ -53,6 +54,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
+  "bagSize": 5,
   "eggBackColor": "#008800",
   "eggForeColor": "#00FF00",
   "subspecies": [

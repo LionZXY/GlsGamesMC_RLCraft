@@ -1,12 +1,12 @@
 {
   "name": "sutiramu",
-  "creatureType": "arthropod",
+  "creatureType": "arachnid",
   "groups": [
     "predator"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySutiramu",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelSutiramu",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -44,7 +44,7 @@
   "experience": 5,
   "health": 25,
   "defense": 1,
-  "armor": 0,
+  "armor": 4,
   "speed": 28,
   "damage": 2,
   "attackSpeed": 1,
@@ -54,6 +54,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#83553b",
   "eggForeColor": "#2c1c0f",
   "subspecies": [
@@ -74,7 +75,7 @@
     }
   ],
   "elements": [
-    "gravity",
+    "arcane",
     "quake"
   ],
   "diets": [

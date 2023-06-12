@@ -1,6 +1,6 @@
 {
   "itemName": "darklingskull",
-  "loadDefault": true,
+  "loadDefault": false,
   "slotType": "head",
   "dropMobId": "lycanitesmobs:darkling",
   "dropChance": 0.05,
@@ -47,7 +47,7 @@
       "levelMax": 2,
       "effectType": "lycanitesmobs:leech",
       "effectTarget": "self",
-      "effectDuration": 40,
+      "effectDuration": 30,
       "effectStrength": 2
     },
     {
@@ -55,7 +55,7 @@
       "levelMin": 3,
       "effectType": "lycanitesmobs:leech",
       "effectTarget": "self",
-      "effectDuration": 60,
+      "effectDuration": 40,
       "effectStrength": 3
     },
     {

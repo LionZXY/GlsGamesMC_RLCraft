@@ -3,10 +3,12 @@
   "type": "spawner",
   "enabled": true,
   "loadDefault": false,
-  "mobCountMin": 8,
+  "mobCountMin": 2,
+  "mobCountMax": 5,
   "ignoreDimensions": true,
   "ignoreBiomes": true,
   "ignoreLightLevel": true,
+  "dropsRequirePlayerDamage": true,
   "conditions": [],
   "triggers": [
     {

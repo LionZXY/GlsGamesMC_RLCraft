@@ -13,7 +13,23 @@
   },
   {
     "tool": {
+        "item": "baubles:ring"
+    },
+    "material": {
+        "ore_dict": "ingotIron"
+    }
+  },
+  {
+    "tool": {
         "item": "minecraft:bow"
+    },
+    "material": {
+        "ore_dict": "plankWood"
+    }
+  },
+  {
+    "tool": {
+        "item": "mujmajnkraftsbettersurvival:itemcrossbow"
     },
     "material": {
         "ore_dict": "plankWood"
@@ -1686,6 +1702,30 @@
   },
   {
     "tool": {
+        "item": "bountifulbaubles:shieldcobalt"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "bountifulbaubles:shieldobsidian"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "bountifulbaubles:shieldankh"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
         "item": "defiledlands:scarlite_ring"
     },
     "material": {
@@ -1878,6 +1918,166 @@
   },
   {
     "tool": {
+        "item": "artifacts:shock_pendant"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:flame_pendant"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },  
+  {
+    "tool": {
+        "item": "artifacts:thorn_pendant"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:ultimate_pendant"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:panic_necklace"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:whoopie_cushion"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:bottled_cloud"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:bottled_fart"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:magma_stone"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:feral_claws"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:power_glove"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:mechanical_glove"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:fire_gauntlet"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:drinking_hat"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:star_cloak"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:pocket_piston"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:antidote_vessel"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:bubble_wrap"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:sacrificial_amulet"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
+        "item": "artifacts:lucky_clover"
+    },
+    "material": {
+        "item": "bountifulbaubles:spectralsilt"
+    }
+  },
+  {
+    "tool": {
         "item": "forgottenitems:explosion_pickaxe"
     },
     "material": {
@@ -1966,6 +2166,46 @@
   },
   {
     "tool": {
+        "item": "xat:titan_ring"
+    },
+    "material": {
+        "item": "xat:glowing_ingot"
+    }
+  },
+  {
+    "tool": {
+        "item": "xat:goblin_ring"
+    },
+    "material": {
+        "item": "xat:glowing_ingot"
+    }
+  },
+  {
+    "tool": {
+        "item": "xat:elf_ring"
+    },
+    "material": {
+        "item": "xat:glowing_ingot"
+    }
+  },
+  {
+    "tool": {
+        "item": "xat:faelis_ring"
+    },
+    "material": {
+        "item": "xat:glowing_ingot"
+    }
+  },
+  {
+    "tool": {
+        "item": "xat:dragon_ring"
+    },
+    "material": {
+        "item": "xat:glowing_ingot"
+    }
+  },
+  {
+    "tool": {
         "item": "xat:wither_ring"
     },
     "material": {
@@ -2010,6 +2250,350 @@
     },
     "material": {
         "item": "xat:glowing_ingot"
+    }
+  },
+  {
+    "tool": {
+        "item": "xat:arcing_orb"
+    },
+    "material": {
+        "item": "xat:glowing_ingot"
+    }
+  },
+  {
+    "tool": {
+        "item": "xat:teddy_bear"
+    },
+    "material": {
+        "item": "xat:glowing_ingot"
+    }
+  },
+  {
+    "tool": {
+        "item": "xat:faelis_claw"
+    },
+    "material": {
+        "item": "xat:glowing_ingot"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:katana_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:greatsword_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:longsword_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:saber_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:rapier_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:dagger_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:spear_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:pike_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:lance_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:halberd_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:warhammer_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:hammer_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:throwing_axe_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:throwing_knife_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:longbow_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:crossbow_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:javelin_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:battleaxe_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:boomerang_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:mace_jungle_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:katana_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:greatsword_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:longsword_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:saber_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:rapier_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:dagger_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:spear_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:pike_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:lance_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:halberd_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:warhammer_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:hammer_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:throwing_axe_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:throwing_knife_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:longbow_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:crossbow_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:javelin_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:battleaxe_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:boomerang_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+    }
+  },
+  {
+    "tool": {
+        "item": "spartanfire:mace_desert_venom"
+    },
+    "material": {
+        "item": "iceandfire:myrmex_desert_chitin"
     }
   }
 ]

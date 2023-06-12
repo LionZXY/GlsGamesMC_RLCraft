@@ -1,12 +1,12 @@
 {
   "name": "concapedesegment",
-  "creatureType": "arthropod",
+  "creatureType": "insect",
   "groups": [
     "animal"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityConcapedeSegment",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelConcapedeSegment",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": false,
@@ -37,7 +37,7 @@
   "experience": 5,
   "health": 5,
   "defense": 0,
-  "armor": 0,
+  "armor": 4,
   "speed": 28,
   "damage": 1,
   "attackSpeed": 1,
@@ -47,6 +47,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#000022",
   "eggForeColor": "#990000",
   "subspecies": [

@@ -3,13 +3,13 @@
     {
         "title":
         {
-            "image" : "mainmenu:rlcraft.png",
-            "posX" : -135,
-            "posY" : 30,
-            "width" : 275,
-            "height" : 55,
-            "imageWidth" : 1000,
-            "imageHeight" : 200,
+            "image" : "mainmenu:rlcraft_Logo_1_edit.png",
+            "posX" : -200,
+            "posY" : -35,
+            "width" : 400,
+            "height" : 200,
+            "imageWidth" : 2000,
+            "imageHeight" : 1000,
             "alignment" : "top_center"
         }
     },
@@ -19,6 +19,8 @@
         "singleplayer":
         {
             "text" : "menu.singleplayer",
+			"normalTextColor" : 9561599,
+			"hoverTextColor" : -1 ,
             "posX" : -100,
             "posY" : 36,
             "width" : 200,
@@ -36,6 +38,8 @@
         "multiplayer":
         {
             "text" : "menu.multiplayer",
+			"normalTextColor" : 9561599,
+			"hoverTextColor" : -1,
             "posX" : -100,
             "posY" : 60,
             "width" : 200,
@@ -53,6 +57,8 @@
         "mods":
         {
             "text" : "fml.menu.mods",
+			"normalTextColor" : 9561599,
+			"hoverTextColor" : -1,
             "posX" : -100,
             "posY" : 84,
             "width" : 200,
@@ -70,6 +76,8 @@
         "hosting":
         {
             "text" : "Host your own server!",
+			"normalTextColor" : 9561599,
+			"hoverTextColor" : -1,
             "posX" : -100,
             "posY" : 108,
             "width" : 200,
@@ -88,6 +96,8 @@
         "options":
         {
             "text" : "menu.options",
+			"normalTextColor" : 9561599,
+			"hoverTextColor" : -1,
             "posX" : -100,
             "posY" : 132,
             "width" : 98,
@@ -105,6 +115,8 @@
         "quit":
         {
             "text" : "menu.quit",
+			"normalTextColor" : 9561599,
+			"hoverTextColor" : -1,
             "posX" : 2,
             "posY" : 132,
             "width" : 98,
@@ -128,7 +140,7 @@
             "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
             "posX" : 5,
             "posY" : 5,
-            "color" : -1,
+            "color" : 9561599,
             "alignment" : "top_left",
             "action" : 
             {
@@ -143,7 +155,7 @@
             "hoverText" : "§nRLCraft Wiki",
             "posX" : 5,
             "posY" : 16,
-            "color" : -1,
+            "color" : 9561599,
             "alignment" : "top_left",
             "action" : 
             {
@@ -158,7 +170,7 @@
             "hoverText" : "§nRLCraft Reddit",
             "posX" : 5,
             "posY" : 27,
-            "color" : -1,
+            "color" : 9561599,
             "alignment" : "top_left",
             "action" : 
             {
@@ -166,19 +178,51 @@
                 "link" : "https://www.reddit.com/r/RLCraft"
             }
         },
+		
+		"discord":
+        {
+            "text" : "Shivaxi's Discord",
+            "hoverText" : "§nShivaxi's Discord",
+            "posX" : 5,
+            "posY" : 49,
+            "color" : 9561599,
+            "alignment" : "top_left",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/QURkzuQ"
+            }
+        },
+		
+		"discord 2":
+        {
+            "text" : "RLCraft Speedrun",
+            "hoverText" : "§nRLCraft Speedrun",
+            "posX" : 5,
+            "posY" : 38,
+            "color" : 9561599,
+            "alignment" : "top_left",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://speedrun.com/RLCraft"
+            }
+        },
         
         "mods_loaded":{
            "text":"#modsloaded# Mods Loaded",
            "posX":55,
            "posY":-28,
+		   "color" : 9561599,
            "width":90,
            "height":0,
            "alignment":"bottom_left"
         },
 		"rl_craft":{
-			"text":"RLCraft v2.8.2 (By Shivaxi)",
+			"text":"RLCraft v2.9.2d (By Shivaxi)",
 			"posX":55,
 			"posY":-38,
+			"color" : 9561599,
 			"width":90,
 			"height":0,
 			"alignment":"bottom_left"
@@ -187,6 +231,7 @@
            "text":"#time# #date#",
            "posX":-110,
            "posY":-33,
+		   "color" : 9561599,
            "width":90,
            "height":0,
            "alignment":"bottom_right"
@@ -199,15 +244,23 @@
 			"slideshow": {
 				"images": [
 					"mainmenu:images/0.jpg",
+					"mainmenu:images/1 new.jpg",
 					"mainmenu:images/1.jpg",
+					"mainmenu:images/2 new.jpg",
 					"mainmenu:images/2.jpg",
 					"mainmenu:images/3.jpg",
+					"mainmenu:images/4 new.jpg",
 					"mainmenu:images/4.jpg",
 					"mainmenu:images/5.jpg",
+					"mainmenu:images/6 new.jpg",
+					"mainmenu:images/6 newer.jpg",
 					"mainmenu:images/6.jpg",
+					"mainmenu:images/7 new.jpg",
 					"mainmenu:images/7.jpg",
 					"mainmenu:images/8.jpg",
 					"mainmenu:images/9.jpg",
+					"mainmenu:images/10 new.jpg",
+					"mainmenu:images/10 newer.jpg",
 					"mainmenu:images/10.jpg",
 					"mainmenu:images/11.jpg",
 					"mainmenu:images/12.jpg",

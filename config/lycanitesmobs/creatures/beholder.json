@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityBeholder",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelBeholder",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -47,8 +47,10 @@
   "effectDuration": 5,
   "effectAmplifier": 1,
   "pierce": 1,
-  "sight": 32,
+  "sight": 36,
   "knockbackResistance": 0.25,
+  "bagSize": 5,
+  "tamingReputation": 1000,
   "eggBackColor": "#442211",
   "eggForeColor": "#44AA33",
   "subspecies": [
@@ -69,7 +71,7 @@
     }
   ],
   "elements": [
-    "gravity",
+    "arcane",
     "void"
   ],
   "diets": [
@@ -91,24 +93,24 @@
       "item": "minecraft:ghast_tear",
       "minAmount": 1,
       "maxAmount": 3,
-      "chance": 0.25
+      "chance": 0.20
     },
     {
       "item": "minecraft:gunpowder",
       "minAmount": 1,
-      "maxAmount": 3,
-      "chance": 0.5
+      "maxAmount": 4,
+      "chance": 0.75
     },
     {
       "item": "minecraft:glowstone_dust",
-      "minAmount": 4,
-      "maxAmount": 16,
+      "minAmount": 2,
+      "maxAmount": 6,
       "chance": 0.25
     },
     {
       "item": "minecraft:ender_eye",
       "minAmount": 1,
-      "maxAmount": 2,
+      "maxAmount": 1,
       "chance": 0.25
     },
     {

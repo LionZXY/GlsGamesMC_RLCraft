@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityWisp",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelWisp",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -45,6 +45,7 @@
   "pierce": 0,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#f0eab6",
   "eggForeColor": "#fefcef",
   "subspecies": [
@@ -76,7 +77,7 @@
       "item": "minecraft:glowstone_dust",
       "minAmount": 1,
       "maxAmount": 3,
-      "chance": 1
+      "chance": 0.75
     },
     {
       "item": "minecraft:gold_nugget",

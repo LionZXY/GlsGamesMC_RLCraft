@@ -1,6 +1,6 @@
 {
   "name": "predator",
-  "loadDefault": true,
+  "loadDefault": false,
   "hunt": [
     "animal",
     "critter",
@@ -16,7 +16,8 @@
     "alpha"
   ],
   "ignore": [
-    "boss"
+    "boss",
+	"illager"
   ],
   "default": "retaliate"
 }

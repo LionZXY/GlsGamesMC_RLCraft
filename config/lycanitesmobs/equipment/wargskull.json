@@ -1,9 +1,9 @@
 {
   "itemName": "wargskull",
-  "loadDefault": true,
+  "loadDefault": false,
   "slotType": "head",
   "dropMobId": "lycanitesmobs:warg",
-  "dropChance": 0.2,
+  "dropChance": 0.05,
   "levelMin": 1,
   "levelMax": 3,
   "elements": [
@@ -64,7 +64,7 @@
       "levelMin": 3,
       "effectType": "lycanitesmobs:bleed",
       "effectTarget": "target",
-      "effectDuration": 10,
+      "effectDuration": 20,
       "effectStrength": 1
     }
   ]

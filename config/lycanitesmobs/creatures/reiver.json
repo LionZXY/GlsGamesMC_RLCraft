@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityReiver",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelReiver",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -52,6 +52,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#DDEEFF",
   "eggForeColor": "#99DDEE",
   "subspecies": [
@@ -90,6 +91,12 @@
       "minAmount": 1,
       "maxAmount": 8,
       "chance": 0.25
+    },
+    {
+      "item": "simpledifficulty:frost_rod",
+      "minAmount": 1,
+      "maxAmount": 1,
+      "chance": 0.1
     },
     {
       "item": "lycanitesmobs:cleansingcrystal",

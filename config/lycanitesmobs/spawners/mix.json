@@ -2,7 +2,7 @@
   "name": "mix",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 1,
   "ignoreDimensions": true,
   "ignoreBiomes": true,
@@ -10,11 +10,12 @@
   "ignoreLightLevel": true,
   "ignoreGroupLimit": true,
   "ignoreForgeCanSpawnEvent": true,
+  "dropsRequirePlayerDamage": true,
   "conditions": [],
   "triggers": [
     {
       "type": "mix",
-      "chance": 0.1
+      "chance": 0.01
     }
   ],
   "locations": [

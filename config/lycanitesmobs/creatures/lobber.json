@@ -1,12 +1,12 @@
 {
   "name": "lobber",
-  "creatureType": "brute",
+  "creatureType": "golem",
   "groups": [
     "inferno"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityLobber",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelLobber",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -35,8 +35,8 @@
   "height": 3.5,
   "experience": 10,
   "health": 40,
-  "defense": 3,
-  "armor": 0,
+  "defense": 2,
+  "armor": 8,
   "speed": 16,
   "damage": 2,
   "attackSpeed": 1,
@@ -46,6 +46,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#330011",
   "eggForeColor": "#FF5500",
   "subspecies": [
@@ -97,10 +98,10 @@
       "chance": 1
     },
     {
-      "item": "minecraft:blaze_powder",
+      "item": "minecraft:blaze_rod",
       "minAmount": 1,
-      "maxAmount": 6,
-      "chance": 1
+      "maxAmount": 2,
+      "chance": 0.2
     },
     {
       "item": "lycanitesmobs:magmacharge",
@@ -110,6 +111,8 @@
     },
     {
       "item": "lycanitesmobs:soulstone_imp",
+	  "amountMultiplier": false,
+	  "bonusAmount": false,
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 1,

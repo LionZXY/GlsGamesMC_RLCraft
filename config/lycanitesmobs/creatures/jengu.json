@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityJengu",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelJengu",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -35,7 +35,7 @@
   "health": 15,
   "defense": 0,
   "armor": 0,
-  "speed": 22,
+  "speed": 36,
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
@@ -44,6 +44,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#000099",
   "eggForeColor": "#4444FF",
   "subspecies": [
@@ -68,7 +69,7 @@
   "summonable": true,
   "tameable": false,
   "mountable": false,
-  "summonCost": 2,
+  "summonCost": 3,
   "dungeonLevel": 1,
   "drops": [
     {

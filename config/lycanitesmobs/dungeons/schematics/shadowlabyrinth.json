@@ -9,20 +9,29 @@
     {
       "type": "world",
       "dimensionIds": [
-        0,
-        1
+        0
       ],
       "dimensionListType": "whitelist",
       "biomeTags": [
         "spooky",
         "mountain",
-        "swamp",
-        "nether",
-        "end"
+        "swamp"
       ],
       "biomeTagListType": "whitelist"
     }
   ],
+  "placer": {
+    "type": "surface",
+    "materials": [
+      "air",
+      "wood",
+      "leaves",
+      "plants",
+      "vine",
+      "snow",
+      "cactus"
+    ]
+  },
   "themes": [
     "shadow"
   ],
@@ -134,7 +143,8 @@
         },
         {
           "item": "lycanitesmobs:soulstone_imp",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     },
@@ -152,17 +162,14 @@
       "dungeonBoss": true,
       "mobDrops": [
         {
-          "item": "lycanitesmobs:spectralboltscepter",
-          "amountMultiplier": false
-        },
-        {
           "item": "minecraft:diamond",
           "minAmount": 10,
           "amountMultiplier": false
         },
         {
           "item": "lycanitesmobs:soulstone_aberration",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     },
@@ -189,11 +196,13 @@
         },
         {
           "item": "lycanitesmobs:soulstone_undead",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         },
         {
           "item": "lycanitesmobs:soulstone_arthropod",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     }

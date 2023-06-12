@@ -7,7 +7,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySylph",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelSylph",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -47,6 +47,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#0677b6",
   "eggForeColor": "#e8fdff",
   "subspecies": [
@@ -75,10 +76,10 @@
   "dungeonLevel": 1,
   "drops": [
     {
-      "item": "minecraft:glowstone_dust",
+      "item": "iceandfire:silver_nugget",
       "minAmount": 1,
-      "maxAmount": 8,
-      "chance": 1
+      "maxAmount": 4,
+      "chance": 0.5
     },
     {
       "item": "minecraft:gold_nugget",

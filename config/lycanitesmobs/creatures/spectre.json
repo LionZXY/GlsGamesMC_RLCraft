@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySpectre",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelSpectre",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -46,6 +46,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
+  "bagSize": 5,
   "eggBackColor": "#4f0095",
   "eggForeColor": "#ff08d7",
   "subspecies": [
@@ -77,18 +78,18 @@
       "item": "minecraft:ender_pearl",
       "minAmount": 1,
       "maxAmount": 3,
-      "chance": 1
+      "chance": 0.5
     },
     {
       "item": "minecraft:ender_eye",
       "minAmount": 1,
       "maxAmount": 1,
-      "chance": 0.5
+      "chance": 0.25
     },
     {
       "item": "minecraft:chorus_fruit",
       "minAmount": 1,
-      "maxAmount": 10,
+      "maxAmount": 6,
       "chance": 0.5
     },
     {

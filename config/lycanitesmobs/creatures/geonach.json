@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityGeonach",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelGeonach",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -31,8 +31,8 @@
   "height": 1.6,
   "experience": 10,
   "health": 20,
-  "defense": 3,
-  "armor": 0,
+  "defense": 2,
+  "armor": 8,
   "speed": 24,
   "damage": 2,
   "attackSpeed": 1,
@@ -42,6 +42,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
+  "bagSize": 5,
   "eggBackColor": "#443333",
   "eggForeColor": "#BBBBCC",
   "subspecies": [
@@ -72,7 +73,7 @@
   "summonable": true,
   "tameable": false,
   "mountable": false,
-  "summonCost": 2,
+  "summonCost": 3,
   "dungeonLevel": 1,
   "drops": [
     {
@@ -121,6 +122,8 @@
     },
     {
       "item": "lycanitesmobs:soulstone_worm",
+	  "amountMultiplier": false,
+	  "bonusAmount": false,
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 1,

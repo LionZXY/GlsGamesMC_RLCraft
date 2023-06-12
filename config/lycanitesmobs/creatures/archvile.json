@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityArchvile",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelArchvile",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -41,7 +41,7 @@
   "experience": 10,
   "health": 40,
   "defense": 2,
-  "armor": 0,
+  "armor": 4,
   "speed": 32,
   "damage": 1,
   "attackSpeed": 1,
@@ -89,7 +89,7 @@
   "summonable": true,
   "tameable": false,
   "mountable": false,
-  "summonCost": 6,
+  "summonCost": 5,
   "dungeonLevel": 2,
   "drops": [
     {
@@ -110,6 +110,15 @@
       "minAmount": 5,
       "maxAmount": 10,
       "chance": 1
+    },
+    {
+      "item": "lycanitesmobs:soulstone_demon",
+	  "amountMultiplier": false,
+	  "bonusAmount": false,
+      "minAmount": 1,
+      "maxAmount": 1,
+      "chance": 1,
+      "variant": 3
     }
   ],
   "sizeScale": 1,

@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAstaroth",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelAstaroth",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -53,6 +53,7 @@
   "pierce": 1,
   "sight": 40,
   "knockbackResistance": 1,
+  "bagSize": 5,
   "eggBackColor": "#999944",
   "eggForeColor": "#0000FF",
   "subspecies": [

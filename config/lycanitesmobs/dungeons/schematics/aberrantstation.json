@@ -9,21 +9,29 @@
     {
       "type": "world",
       "dimensionIds": [
-        0,
-        1,
-        -1
+        0
       ],
       "dimensionListType": "whitelist",
       "biomeTags": [
         "spooky",
         "mountain",
-        "cold",
-        "nether",
-        "end"
+        "cold"
       ],
       "biomeTagListType": "whitelist"
     }
   ],
+  "placer": {
+    "type": "surface",
+    "materials": [
+      "air",
+      "wood",
+      "leaves",
+      "plants",
+      "vine",
+      "snow",
+      "cactus"
+    ]
+  },
   "themes": [
     "aberrant"
   ],
@@ -105,6 +113,11 @@
       "dungeonLevelMin": 3
     },
     {
+      "mobId": "lycanitesmobs:grigori",
+      "weight": 14,
+      "dungeonLevelMin": 3
+    },
+    {
       "mobId": "lycanitesmobs:astaroth",
       "weight": 1,
       "dungeonLevelMin": 4
@@ -114,6 +127,11 @@
       "weight": 14,
       "subspecies": 1,
       "dungeonLevelMin": 4
+    },
+    {
+      "mobId": "lycanitesmobs:grell",
+      "weight": 4,
+      "dungeonLevelMin": 5
     },
     {
       "mobId": "lycanitesmobs:beholder",
@@ -140,7 +158,8 @@
         },
         {
           "item": "lycanitesmobs:soulstone_beast",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     },
@@ -167,7 +186,8 @@
         },
         {
           "item": "lycanitesmobs:soulstone_aberration",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     },
@@ -185,12 +205,9 @@
       "dungeonBoss": true,
       "mobDrops": [
         {
-          "item": "lycanitesmobs:bloodleechscepter",
-          "amountMultiplier": false
-        },
-        {
           "item": "lycanitesmobs:soulstone_beast",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         },
         {
           "item": "lycanitesmobs:chaosorbcharge",
@@ -223,7 +240,8 @@
         },
         {
           "item": "lycanitesmobs:soulstone_aberration",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     }

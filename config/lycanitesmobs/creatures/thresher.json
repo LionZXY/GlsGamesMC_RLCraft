@@ -1,12 +1,12 @@
 {
   "name": "thresher",
-  "creatureType": "aquatic",
+  "creatureType": "reptile",
   "groups": [
     "predator"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityThresher",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelThresher",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -52,6 +52,8 @@
   "pierce": 2,
   "sight": 32,
   "knockbackResistance": 1,
+  "bagSize": 15,
+  "tamingReputation": 2000,
   "packSize": 1,
   "eggBackColor": "#77747e",
   "eggForeColor": "#3f4567",

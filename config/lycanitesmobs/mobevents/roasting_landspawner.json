@@ -2,8 +2,8 @@
   "name": "roasting_landspawner",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
-  "mobCountMin": 2,
+  "loadDefault": false,
+  "mobCountMin": 4,
   "ignoreDimensions": true,
   "ignoreBiomes": true,
   "ignoreLightLevel": true,
@@ -16,7 +16,7 @@
     {
       "type": "player",
       "chance": 1,
-      "tickRate": 100
+      "tickRate": 200
     }
   ],
   "locations": [

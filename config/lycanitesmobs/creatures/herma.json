@@ -1,12 +1,12 @@
 {
   "name": "herma",
-  "creatureType": "arthropod",
+  "creatureType": "aquatic",
   "groups": [
     "monster"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityHerma",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelHerma",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -41,8 +41,8 @@
   "height": 0.9,
   "experience": 10,
   "health": 30,
-  "defense": 3,
-  "armor": 0,
+  "defense": 2,
+  "armor": 8,
   "speed": 22,
   "damage": 1,
   "attackSpeed": 1,
@@ -52,6 +52,8 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 10,
+  "tamingReputation": 250,
   "eggBackColor": "#e50403",
   "eggForeColor": "#f1c2a1",
   "subspecies": [

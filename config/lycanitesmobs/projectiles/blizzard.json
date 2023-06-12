@@ -1,6 +1,6 @@
 {
   "name": "blizzard",
-  "loadDefault": true,
+  "loadDefault": false,
   "width": 0.5,
   "height": 0.5,
   "scale": 0.5,
@@ -20,8 +20,12 @@
   "lavaproof": false,
   "cutGrass": true,
   "impactSound": false,
-  "ripper": true,
+  "ripper": false,
   "pierceBlocks": false,
   "glow": true,
-  "rollSpeed": 4
+  "rollSpeed": 4,
+  "particleCount": 1,
+  "particleType": "cloud",
+  "waterParticleType": "cloud",
+  "animationFrames": 4
 }

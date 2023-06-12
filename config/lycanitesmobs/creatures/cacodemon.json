@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityCacodemon",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelCacodemon",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -49,6 +49,7 @@
   "pierce": 1,
   "sight": 32,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#FF0000",
   "eggForeColor": "#000099",
   "subspecies": [
@@ -113,6 +114,8 @@
     },
     {
       "item": "lycanitesmobs:soulstone_demon",
+	  "amountMultiplier": false,
+	  "bonusAmount": false,
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 1,

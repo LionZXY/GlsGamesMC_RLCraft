@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityCockatrice",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelCockatrice",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -50,6 +50,8 @@
   "pierce": 2,
   "sight": 24,
   "knockbackResistance": 0.75,
+  "bagSize": 15,
+  "tamingReputation": 500,
   "eggBackColor": "#be3500",
   "eggForeColor": "#1e781e",
   "subspecies": [
@@ -70,7 +72,7 @@
     }
   ],
   "elements": [
-    "gravity",
+    "arcane",
     "lightning"
   ],
   "diets": [
@@ -109,7 +111,7 @@
       "item": "minecraft:prismarine_crystals",
       "minAmount": 3,
       "maxAmount": 6,
-      "chance": 0.75
+      "chance": 0.5
     },
     {
       "item": "minecraft:emerald",

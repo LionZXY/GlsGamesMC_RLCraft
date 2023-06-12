@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityQuetzodracl",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelQuetzodracl",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -39,7 +39,7 @@
   "experience": 20,
   "health": 120,
   "defense": 1,
-  "armor": 0,
+  "armor": 8,
   "speed": 42,
   "damage": 3,
   "attackSpeed": 1,
@@ -49,6 +49,8 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 10,
+  "tamingReputation": 2000,
   "eggBackColor": "#229944",
   "eggForeColor": "#99FFBB",
   "subspecies": [
@@ -89,14 +91,14 @@
     },
     {
       "item": "minecraft:prismarine_shard",
-      "minAmount": 6,
+      "minAmount": 4,
       "maxAmount": 12,
       "chance": 1
     },
     {
       "item": "minecraft:prismarine_crystals",
-      "minAmount": 3,
-      "maxAmount": 6,
+      "minAmount": 2,
+      "maxAmount": 4,
       "chance": 0.75
     },
     {

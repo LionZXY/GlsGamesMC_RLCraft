@@ -42,6 +42,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#0e2609",
   "eggForeColor": "#d04bda",
   "subspecies": [
@@ -73,19 +74,19 @@
       "item": "minecraft:slime_ball",
       "minAmount": 1,
       "maxAmount": 2,
-      "chance": 1
+      "chance": 0.5
     },
     {
       "item": "minecraft:brown_mushroom",
       "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 1
+      "maxAmount": 2,
+      "chance": 0.75
     },
     {
       "item": "minecraft:red_mushroom",
-      "minAmount": 2,
+      "minAmount": 1,
       "maxAmount": 3,
-      "chance": 1
+      "chance": 0.75
     },
     {
       "item": "lycanitesmobs:poisongland",

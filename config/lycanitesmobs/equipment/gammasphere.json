@@ -1,6 +1,6 @@
 {
   "itemName": "gammasphere",
-  "loadDefault": true,
+  "loadDefault": false,
   "slotType": "jewel",
   "dropMobId": "lycanitesmobs:wisp",
   "dropChance": 0.05,
@@ -49,7 +49,7 @@
       "projectileName": "lightball",
       "projectileTrigger": "secondary",
       "projectilePattern": "simple",
-      "cooldown": 20,
+      "cooldown": 45,
       "count": 1
     },
     {
@@ -59,7 +59,7 @@
       "projectileName": "lightball",
       "projectileTrigger": "secondary",
       "projectilePattern": "simple",
-      "cooldown": 16,
+      "cooldown": 30,
       "count": 1,
       "bonusDamage": 4
     },
@@ -69,7 +69,7 @@
       "projectileName": "lightball",
       "projectileTrigger": "secondary",
       "projectilePattern": "simple",
-      "cooldown": 8,
+      "cooldown": 15,
       "count": 1,
       "bonusDamage": 10
     }

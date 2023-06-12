@@ -14,10 +14,10 @@
     },
     {
       "weight": 0.7087690830230713,
-      "min": 5,
-      "max": 15,
+      "min": 1,
+      "max": 1,
       "item": {
-        "id": "harvestcraft:seaweeditem",
+        "id": "fishingmadebetter:fishing_rod_wood",
         "damage": 0,
         "count": 1
       }
@@ -37,7 +37,7 @@
       "min": 5,
       "max": 15,
       "item": {
-        "id": "harvestcraft:riceitem",
+        "id": "minecraft:bread",
         "damage": 0,
         "count": 1
       }
@@ -47,7 +47,7 @@
       "min": 5,
       "max": 15,
       "item": {
-        "id": "harvestcraft:bambooshootitem",
+        "id": "rustic:grapes",
         "damage": 0,
         "count": 1
       }
@@ -57,7 +57,7 @@
       "min": 5,
       "max": 15,
       "item": {
-        "id": "harvestcraft:curryleafitem",
+        "id": "rustic:tomato",
         "damage": 0,
         "count": 1
       }
@@ -84,40 +84,40 @@
     },
     {
       "weight": 0.7087690830230713,
-      "min": 5,
-      "max": 15,
+      "min": 1,
+      "max": 8,
       "item": {
-        "id": "harvestcraft:tealeafitem",
+        "id": "foodexpansion:itemcarrotpie",
         "damage": 0,
         "count": 1
       }
     },
     {
       "weight": 0.7087690830230713,
-      "min": 5,
-      "max": 15,
+      "min": 1,
+      "max": 8,
       "item": {
-        "id": "harvestcraft:soybeanitem",
+        "id": "foodexpansion:itemcookedsquid",
         "damage": 0,
         "count": 1
       }
     },
     {
       "weight": 0.7087690830230713,
-      "min": 5,
-      "max": 15,
+      "min": 1,
+      "max": 1,
       "item": {
-        "id": "harvestcraft:chilipepperitem",
+        "id": "foodexpansion:itemcarrotseedsoup",
         "damage": 0,
         "count": 1
       }
     },
     {
       "weight": 0.7087690830230713,
-      "min": 5,
-      "max": 15,
+      "min": 1,
+      "max": 1,
       "item": {
-        "id": "harvestcraft:gingeritem",
+        "id": "minecraft:beetroot_soup",
         "damage": 0,
         "count": 1
       }

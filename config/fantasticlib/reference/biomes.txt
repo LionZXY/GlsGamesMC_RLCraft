@@ -60,6 +60,7 @@ minecraft:mutated_savanna_rock
 minecraft:mutated_mesa
 minecraft:mutated_mesa_rock
 minecraft:mutated_mesa_clear_rock
+iceandfire:glacier
 defiledlands:desert_defiled
 defiledlands:plains_defiled
 defiledlands:forest_tenebra
@@ -91,4 +92,4 @@ traverse:desert_shrubland
 traverse:thicket
 traverse:arid_highland
 traverse:rocky_plains
-iceandfire:glacier
+srparasites:biome_parasite

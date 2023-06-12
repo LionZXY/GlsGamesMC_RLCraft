@@ -63,9 +63,9 @@
       }
     },
     {
-      "weight": 0.18405085802078247,
+      "weight": 0.11158588528633118,
       "min": 1,
-      "max": 10,
+      "max": 2,
       "item": {
         "id": "minecraft:ghast_tear",
         "damage": 0,
@@ -73,9 +73,9 @@
       }
     },
     {
-      "weight": 0.18405085802078247,
+      "weight": 0.11158588528633118,
       "min": 1,
-      "max": 10,
+      "max": 4,
       "item": {
         "id": "minecraft:blaze_rod",
         "damage": 0,
@@ -95,9 +95,69 @@
     {
       "weight": 0.18405085802078247,
       "min": 1,
-      "max": 10,
+      "max": 8,
       "item": {
         "id": "minecraft:fermented_spider_eye",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "simpledifficulty:frost_rod",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "simpledifficulty:frost_powder",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "minecraft:blaze_powder",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "minecraft:leather",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "minecraft:slime_ball",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "spartanweaponry:bolt",
         "damage": 0,
         "count": 1
       }

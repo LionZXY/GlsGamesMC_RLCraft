@@ -2,7 +2,7 @@
   "name": "fishing",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 1,
   "ignoreDimensions": true,
   "ignoreBiomes": true,
@@ -12,12 +12,12 @@
   "triggers": [
     {
       "type": "fishing",
-      "chance": 0.2
+      "chance": 0.1
     }
   ],
   "locations": [
     {
-      "type": "random",
+      "type": "block",
       "rangeMin": [
         0,
         0,
@@ -31,7 +31,6 @@
       "sorting": "near",
       "limit": 1,
       "blocks": [
-        "minecraft:air",
         "minecraft:water"
       ],
       "listType": "whitelist",

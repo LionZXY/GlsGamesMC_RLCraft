@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityVolcan",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelVolcan",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -20,7 +20,7 @@
     "biomeTags": [
       "all"
     ],
-    "spawnWeight": 8,
+    "spawnWeight": 4,
     "dungeonWeight": 200,
     "spawnAreaLimit": 1,
     "spawnGroupMin": 1,
@@ -36,9 +36,9 @@
   "experience": 15,
   "health": 30,
   "defense": 2,
-  "armor": 0,
+  "armor": 4,
   "speed": 26,
-  "damage": 2,
+  "damage": 4,
   "attackSpeed": 1,
   "rangedSpeed": 1,
   "effectDuration": 5,
@@ -46,6 +46,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
+  "bagSize": 5,
   "eggBackColor": "#270d03",
   "eggForeColor": "#fba905",
   "subspecies": [
@@ -110,7 +111,7 @@
       "chance": 0.1
     },
     {
-      "item": "lycanitesmobs:embercharge",
+      "item": "lycanitesmobs:magmacharge",
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 0.25

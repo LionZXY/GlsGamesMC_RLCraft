@@ -7,27 +7,27 @@
       "min": 5,
       "max": 15,
       "item": {
-        "id": "harvestcraft:barleyitem",
+        "id": "minecraft:potato",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 5,
+      "max": 15,
+      "item": {
+        "id": "minecraft:bread",
         "damage": 0,
         "count": 1
       }
     },
     {
       "weight": 0.25986868143081665,
-      "min": 5,
-      "max": 15,
+      "min": 1,
+      "max": 1,
       "item": {
-        "id": "harvestcraft:ryeitem",
-        "damage": 0,
-        "count": 1
-      }
-    },
-    {
-      "weight": 0.25986868143081665,
-      "min": 5,
-      "max": 15,
-      "item": {
-        "id": "harvestcraft:oatsitem",
+        "id": "simpledifficulty:juice",
         "damage": 0,
         "count": 1
       }
@@ -43,57 +43,57 @@
       }
     },
     {
-      "weight": 0.25986868143081665,
+      "weight": 0.0739658921957016,
       "min": 8,
       "max": 16,
       "item": {
-        "id": "harvestcraft:blackberryitem",
+        "id": "minecraft:wheat_seeds",
         "damage": 0,
         "count": 1
       }
     },
     {
-      "weight": 0.25986868143081665,
+      "weight": 0.0739658921957016,
       "min": 8,
       "max": 16,
       "item": {
-        "id": "harvestcraft:blueberryitem",
+        "id": "minecraft:pumpkin_seeds",
         "damage": 0,
         "count": 1
       }
     },
     {
-      "weight": 0.25986868143081665,
+      "weight": 0.0739658921957016,
       "min": 8,
       "max": 16,
       "item": {
-        "id": "harvestcraft:raspberryitem",
+        "id": "minecraft:melon_seeds",
         "damage": 0,
         "count": 1
       }
     },
     {
-      "weight": 0.25986868143081665,
+      "weight": 0.0739658921957016,
       "min": 8,
       "max": 16,
       "item": {
-        "id": "harvestcraft:strawberryitem",
+        "id": "minecraft:beetroot_seeds",
         "damage": 0,
         "count": 1
       }
     },
     {
       "weight": 0.20703016221523285,
-      "min": 8,
-      "max": 16,
+      "min": 1,
+      "max": 8,
       "item": {
-        "id": "harvestcraft:grapeitem",
+        "id": "rustic:tomato_seeds",
         "damage": 0,
         "count": 1
       }
     },
     {
-      "weight": 0.25986868143081665,
+      "weight": 0.35883715748786926,
       "min": 5,
       "max": 15,
       "item": {
@@ -104,40 +104,40 @@
     },
     {
       "weight": 0.25986868143081665,
-      "min": 5,
-      "max": 15,
+      "min": 1,
+      "max": 8,
       "item": {
-        "id": "harvestcraft:tomatoitem",
+        "id": "rustic:apple_seeds",
         "damage": 0,
         "count": 1
       }
     },
     {
       "weight": 0.25986868143081665,
-      "min": 5,
-      "max": 15,
+      "min": 1,
+      "max": 8,
       "item": {
-        "id": "harvestcraft:leekitem",
+        "id": "rustic:chili_pepper_seeds",
         "damage": 0,
         "count": 1
       }
     },
     {
       "weight": 0.25986868143081665,
-      "min": 5,
-      "max": 15,
+      "min": 1,
+      "max": 8,
       "item": {
-        "id": "harvestcraft:lettuceitem",
+        "id": "rustic:grape_stem",
         "damage": 0,
         "count": 1
       }
     },
     {
       "weight": 0.25986868143081665,
-      "min": 5,
-      "max": 15,
+      "min": 1,
+      "max": 8,
       "item": {
-        "id": "harvestcraft:cabbageitem",
+        "id": "rustic:ironwoodseed",
         "damage": 0,
         "count": 1
       }
@@ -158,6 +158,86 @@
       "max": 10,
       "item": {
         "id": "minecraft:porkchop",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "foodexpansion:itembacon",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.23224952816963196,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "foodexpansion:itemcookedbacon",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.23224952816963196,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "foodexpansion:itemfriedegg",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "foodexpansion:itembaconandegg",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "minecraft:apple",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "foodexpansion:itemlollipop",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "foodexpansion:itemcarrotpie",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "foodexpansion:itemchocolatebar",
         "damage": 0,
         "count": 1
       }

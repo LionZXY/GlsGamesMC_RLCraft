@@ -17,7 +17,7 @@
       "min": 18,
       "max": 42,
       "item": {
-        "id": "harvestcraft:orangeitem",
+        "id": "minecraft:gold_nugget",
         "damage": 0,
         "count": 1
       }
@@ -64,10 +64,10 @@
     },
     {
       "weight": 0.9243392944335938,
-      "min": 7,
-      "max": 24,
+      "min": 1,
+      "max": 1,
       "item": {
-        "id": "harvestcraft:beefjerkyitem",
+        "id": "fishingmadebetter:fillet_knife_iron",
         "damage": 0,
         "count": 1
       }
@@ -134,10 +134,10 @@
     },
     {
       "weight": 0.20703016221523285,
-      "min": 10,
-      "max": 39,
+      "min": 1,
+      "max": 1,
       "item": {
-        "id": "harvestcraft:cottonitem",
+        "id": "fishingmadebetter:fish_tracker_diamond",
         "damage": 0,
         "count": 1
       }
@@ -167,7 +167,7 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "minecraft:fishing_rod",
+        "id": "fishingmadebetter:fishing_rod_wood",
         "damage": 0,
         "count": 1
       }
@@ -177,7 +177,7 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "minecraft:fishing_rod",
+        "id": "fishingmadebetter:fishing_rod_iron",
         "damage": 0,
         "count": 1
       }
@@ -187,7 +187,17 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "minecraft:fishing_rod",
+        "id": "fishingmadebetter:fishing_rod_diamond",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4400899410247803,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "fishingmadebetter:scaling_knife_iron",
         "damage": 0,
         "count": 1
       }

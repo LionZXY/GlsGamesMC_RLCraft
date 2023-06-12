@@ -1,6 +1,6 @@
 {
   "name": "spectralbolt",
-  "loadDefault": true,
+  "loadDefault": false,
   "width": 0.5,
   "height": 0.5,
   "scale": 1.0,
@@ -16,13 +16,26 @@
     "phase",
     "shadow"
   ],
-  "behaviours": [],
+  "behaviours": [
+    {
+      "type": "randomEffect",
+      "effectDuration": 1200,
+      "effectAmplifier": 0,
+      "effects": [
+        "lycanitesmobs:insomnia"
+      ]
+    }
+  ],
   "waterproof": true,
   "lavaproof": true,
   "cutGrass": false,
   "impactSound": false,
-  "ripper": true,
+  "ripper": false,
   "pierceBlocks": false,
   "glow": false,
-  "rollSpeed": 4
+  "rollSpeed": 8,
+  "particleCount": 5,
+  "particleType": "witchMagic",
+  "waterParticleType": "witchMagic",
+  "animationFrames": 8
 }

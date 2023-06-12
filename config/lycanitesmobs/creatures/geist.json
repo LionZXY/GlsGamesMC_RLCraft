@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityGeist",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelGeist",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -48,6 +48,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#705449",
   "eggForeColor": "#310e08",
   "subspecies": [
@@ -80,12 +81,6 @@
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1
-    },
-    {
-      "item": "minecraft:ender_pearl",
-      "minAmount": 1,
-      "maxAmount": 2,
-      "chance": 0.25
     },
     {
       "item": "minecraft:skull",

@@ -4,60 +4,120 @@
   "items": [
     {
       "weight": 1.0,
-      "min": 1,
-      "max": 1,
+      "min": 64,
+      "max": 64,
       "item": {
-        "id": "lycanitesmobs:mudshotscepter",
+        "id": "lycanitesmobs:dragontreat",
         "damage": 0,
         "count": 1
       }
     },
     {
       "weight": 1.0,
-      "min": 1,
-      "max": 1,
+      "min": 64,
+      "max": 64,
       "item": {
-        "id": "lycanitesmobs:quillscepter",
+        "id": "lycanitesmobs:aviantreat",
         "damage": 0,
         "count": 1
       }
     },
     {
       "weight": 1.0,
-      "min": 1,
-      "max": 1,
+      "min": 64,
+      "max": 64,
       "item": {
-        "id": "lycanitesmobs:blizzardscepter",
+        "id": "lycanitesmobs:demontreat",
         "damage": 0,
         "count": 1
       }
     },
     {
       "weight": 1.0,
-      "min": 1,
-      "max": 1,
+      "min": 64,
+      "max": 64,
       "item": {
-        "id": "lycanitesmobs:devilstarscepter",
+        "id": "lycanitesmobs:aberrationtreat",
         "damage": 0,
         "count": 1
       }
     },
     {
       "weight": 1.0,
-      "min": 1,
-      "max": 1,
+      "min": 64,
+      "max": 64,
       "item": {
-        "id": "lycanitesmobs:scorchfirescepter",
+        "id": "lycanitesmobs:anthroniantreat",
         "damage": 0,
         "count": 1
       }
     },
     {
       "weight": 1.0,
-      "min": 1,
-      "max": 1,
+      "min": 64,
+      "max": 64,
       "item": {
-        "id": "lycanitesmobs:aquapulsescepter",
+        "id": "lycanitesmobs:amphibiantreat",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 64,
+      "max": 64,
+      "item": {
+        "id": "lycanitesmobs:wormtreat",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 64,
+      "max": 64,
+      "item": {
+        "id": "lycanitesmobs:beasttreat",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 64,
+      "max": 64,
+      "item": {
+        "id": "lycanitesmobs:aquatictreat",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 64,
+      "max": 64,
+      "item": {
+        "id": "lycanitesmobs:reptiletreat",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 64,
+      "max": 64,
+      "item": {
+        "id": "lycanitesmobs:insecttreat",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 64,
+      "max": 64,
+      "item": {
+        "id": "lycanitesmobs:imptreat",
         "damage": 0,
         "count": 1
       }

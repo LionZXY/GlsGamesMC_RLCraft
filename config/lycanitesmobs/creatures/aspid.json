@@ -1,12 +1,12 @@
 {
   "name": "aspid",
-  "creatureType": "beast",
+  "creatureType": "reptile",
   "groups": [
     "animal"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAspid",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelAspid",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -17,16 +17,16 @@
     "disableSubspecies": false,
     "dimensionIds": [
       -1,
+	  111,
       1
     ],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
     "biomeTags": [
       "swamp",
-      "spooky",
-      "mushroom"
+      "spooky"
     ],
-    "spawnWeight": 16,
+    "spawnWeight": 12,
     "dungeonWeight": 0,
     "spawnAreaLimit": 5,
     "spawnGroupMin": 1,
@@ -52,6 +52,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.25,
+  "bagSize": 5,
   "eggBackColor": "#009944",
   "eggForeColor": "#446600",
   "subspecies": [

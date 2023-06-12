@@ -12,7 +12,15 @@
       }
     ],
     "blacklist": [
-    
+	  {
+        "item": "bountifulbaubles:shieldcobalt"
+      },
+      {
+        "item": "bountifulbaubles:shieldobsidian"
+      },
+      {
+        "item": "bountifulbaubles:shieldankh"
+	  }
     ],
     "qualities": [
       {

@@ -7,7 +7,7 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "lycanitesmobs:demoniclightningscepter",
+        "id": "lycanitesmobs:saddle_beast",
         "damage": 0,
         "count": 1
       }
@@ -17,7 +17,7 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "lycanitesmobs:spectralboltscepter",
+        "id": "lycanitesmobs:saddle_insect",
         "damage": 0,
         "count": 1
       }
@@ -27,7 +27,7 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "lycanitesmobs:lifedrainscepter",
+        "id": "lycanitesmobs:saddle_dragon",
         "damage": 0,
         "count": 1
       }
@@ -37,7 +37,7 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "lycanitesmobs:frostwebscepter",
+        "id": "lycanitesmobs:saddle_amphibian",
         "damage": 0,
         "count": 1
       }
@@ -47,7 +47,7 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "lycanitesmobs:boulderblastscepter",
+        "id": "lycanitesmobs:saddle_reptile",
         "damage": 0,
         "count": 1
       }
@@ -57,7 +57,7 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "lycanitesmobs:tundrascepter",
+        "id": "lycanitesmobs:saddle_avian",
         "damage": 0,
         "count": 1
       }
@@ -67,7 +67,7 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "lycanitesmobs:magmascepter",
+        "id": "lycanitesmobs:saddle_aquatic",
         "damage": 0,
         "count": 1
       }
@@ -77,7 +77,7 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "lycanitesmobs:hellfirescepter",
+        "id": "lycanitesmobs:saddle_aberration",
         "damage": 0,
         "count": 1
       }
@@ -87,7 +87,7 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "lycanitesmobs:icefirescepter",
+        "id": "lycanitesmobs:saddle_demon",
         "damage": 0,
         "count": 1
       }

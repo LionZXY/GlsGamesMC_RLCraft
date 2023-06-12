@@ -1,12 +1,12 @@
 {
   "name": "erepede",
-  "creatureType": "arthropod",
+  "creatureType": "insect",
   "groups": [
     "predator"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityErepede",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelErepede",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -44,7 +44,7 @@
   "experience": 10,
   "health": 20,
   "defense": 2,
-  "armor": 0,
+  "armor": 4,
   "speed": 26,
   "damage": 2,
   "attackSpeed": 1,
@@ -54,6 +54,8 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.25,
+  "bagSize": 5,
+  "tamingReputation": 500,
   "eggBackColor": "#DD9922",
   "eggForeColor": "#FFDDFF",
   "subspecies": [
@@ -73,7 +75,7 @@
       ]
     }
   ],
-  "element": "gravity",
+  "element": "arcane",
   "diets": [
     "geovore"
   ],

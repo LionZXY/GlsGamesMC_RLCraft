@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityMorock",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelMorock",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -41,7 +41,7 @@
   "experience": 20,
   "health": 120,
   "defense": 2,
-  "armor": 0,
+  "armor": 8,
   "speed": 42,
   "damage": 2,
   "attackSpeed": 1,
@@ -51,6 +51,8 @@
   "pierce": 2,
   "sight": 24,
   "knockbackResistance": 0.75,
+  "bagSize": 10,
+  "tamingReputation": 2000,
   "eggBackColor": "#222211",
   "eggForeColor": "#554444",
   "subspecies": [
@@ -84,21 +86,15 @@
   "dungeonLevel": 1,
   "drops": [
     {
-      "item": "minecraft:bone",
-      "minAmount": 3,
-      "maxAmount": 6,
-      "chance": 1
-    },
-    {
       "item": "minecraft:prismarine_shard",
-      "minAmount": 6,
+      "minAmount": 4,
       "maxAmount": 12,
       "chance": 1
     },
     {
       "item": "minecraft:prismarine_crystals",
-      "minAmount": 3,
-      "maxAmount": 6,
+      "minAmount": 2,
+      "maxAmount": 4,
       "chance": 0.75
     },
     {

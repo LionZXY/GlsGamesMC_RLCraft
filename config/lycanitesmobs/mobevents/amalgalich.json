@@ -9,7 +9,7 @@
     {
       "type": "world",
       "dimensionIds": [
-        0
+        111
       ],
       "dimensionListType": "whitelist"
     }

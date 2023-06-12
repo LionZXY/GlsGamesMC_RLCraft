@@ -1,6 +1,6 @@
 {
   "name": "raider",
-  "loadDefault": true,
+  "loadDefault": false,
   "hunt": [
     "humanoid"
   ],
@@ -8,7 +8,8 @@
   "wary": [],
   "flee": [],
   "ignore": [
-    "boss"
+    "boss",
+	"illager"
   ],
   "default": "retaliate",
   "raiders": true

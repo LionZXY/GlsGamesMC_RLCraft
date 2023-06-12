@@ -123,51 +123,41 @@
       }
     },
     {
-      "weight": 0.15986868143081665,
+      "weight": 0.15986868143081664,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "toughasnails:wool_helmet",
+        "id": "simpledifficulty:wool_helmet",
         "damage": 0,
         "count": 1
       }
     },
     {
-      "weight": 0.15986868143081665,
+      "weight": 0.15986868143081664,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "toughasnails:wool_chestplate",
+        "id": "simpledifficulty:wool_chestplate",
         "damage": 0,
         "count": 1
       }
     },
     {
-      "weight": 0.15986868143081665,
+      "weight": 0.15986868143081664,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "toughasnails:wool_leggings",
+        "id": "simpledifficulty:wool_leggings",
         "damage": 0,
         "count": 1
       }
     },
     {
-      "weight": 0.15986868143081665,
+      "weight": 0.15986868143081664,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "toughasnails:wool_boots",
-        "damage": 0,
-        "count": 1
-      }
-    },
-    {
-      "weight": 0.25986868143081665,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "minecraft:fishing_rod",
+        "id": "simpledifficulty:wool_boots",
         "damage": 0,
         "count": 1
       }
@@ -258,6 +248,126 @@
       "max": 20,
       "item": {
         "id": "minecraft:clay_ball",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "fishingmadebetter:fishing_rod_wood",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "fishingmadebetter:fishing_rod_iron",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "fishingmadebetter:fishing_rod_diamond",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "fishingmadebetter:fish_tracker_iron",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "fishingmadebetter:reel_basic",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "fishingmadebetter:hook_basic",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "fishingmadebetter:bobber_basic",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "fishingmadebetter:fillet_knife_wood",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "fishingmadebetter:fillet_knife_iron",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "fishingmadebetter:scaling_knife_wood",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "fishingmadebetter:scaling_knife_iron",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "fishingmadebetter:baitbox",
         "damage": 0,
         "count": 1
       }
